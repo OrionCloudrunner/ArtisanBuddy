@@ -1,0 +1,15 @@
+{
+  "Author": "Orion Cloudrunner",
+  "Name": "ArtisanBuddy",
+  "Punchline": "Pauses Artisan while GatherBuddy Reborn has work, then resumes it during dead windows.",
+  "Description": "Coordinates GatherBuddy Reborn and Artisan so timed gathering windows preempt crafting lists, with optional apartment-only crafting resume and teleport-stall recovery.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/OrionCloudrunner/ArtisanBuddy",
+  "Tags": [
+    "gathering",
+    "crafting",
+    "automation",
+    "ipc",
+    "utility"
+  ]
+}
