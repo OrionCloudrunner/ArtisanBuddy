@@ -11,5 +11,6 @@
     "automation",
     "ipc",
     "utility"
-  ]
+  ],
+  "AcceptsFeedback": false
 }
